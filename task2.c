@@ -68,7 +68,7 @@ void categorize_temperature (float celsius){ // also from the lab description
         return;
     }
     if (celsius > 100){
-        printf("Hell is hot.\nWeather advisory: Repent?\n(You are boiling at this point)"); // at this point just adding stuff to make it more interesting
+        printf("gg.\nWeather advisory: (You are boiling at this point)"); // at this point just adding stuff to make it more interesting
         // very tired of typing
     }
 }
@@ -156,3 +156,8 @@ int main(){
         }
     }
 }
+// ending comments
+    // i believe it is apparenet that i wasnt struggling in this task because there are not GIANT comment blocks like previous assignments
+    // seems to work AS LONG AS YOU FOLLOW THE 0 1 2 RULE
+        // it does NOT understand words, will just crash
+//
